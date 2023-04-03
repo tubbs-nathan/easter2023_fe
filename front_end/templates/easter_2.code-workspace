@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../easter_project"
+		},
+		{
+			"path": "../../../../dumps/Dump20230308"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "easter_2"
+	}
+}
